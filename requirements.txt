@@ -1,6 +1,6 @@
 colorama==0.4.6
 discord.py==2.3.2
-git+https://github.com/Huguitis/fortnitepy.git@main
+git+https://github.com/Huguitis/fortnitepyold.git@old
 jaconv==0.3.4
 jinja2==3.1.2
 pykakasi==2.2.1
