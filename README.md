@@ -1,3 +1,5 @@
+# Not working anymore!
+
 # Fortnite LobbyBot Egg
 
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/downloads/release/python-3913/)  
@@ -10,7 +12,7 @@
 **Welcome to Fortnite LobbyBot Egg!**
 
 ## Overview
-Embark on your Fortnite journey with the [fortnitepy](https://github.com/Terbau/fortnitepy "github.com/Terbau/fortnitepy") library.
+[fortnitepy](https://github.com/Terbau/fortnitepy "github.com/Terbau/fortnitepy") library.
 
 ## Install
 Follow the easy [Installation Instructions](docs/en/setup.md) to get started.
