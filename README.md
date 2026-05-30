@@ -1,4 +1,4 @@
-# Not working anymore!
+# Not working anymore! Use https://fortnitelobbybots.com/ to create your own free Fortnite LobbyBots.
 
 # Fortnite LobbyBot Egg
 
